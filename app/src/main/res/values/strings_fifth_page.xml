@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fourth_page_array_1">
+        <item>array 1 item 1</item>
+        <item>array 1 item 2</item>
+        <item>array 1 item 3</item>
+        <item>array 1 item 4</item>
+        <item>array 1 item 5</item>
+    </string-array>
+    <string-array name="fourth_page_array_2">
+        <item>array 2 item 1</item>
+        <item>array 2 item 2</item>
+        <item>array 2 item 3</item>
+        <item>array 2 item 4</item>
+        <item>array 2 item 5</item>
+    </string-array>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hint_etUser">请输入用户名</string>
+    <string name="hint_etPassword">请输入密码</string>
+    <string name="hint_etPhone">请输入手机号</string>
+    <string name="hint_etAge">请输入岁数</string>
+    <string name="text_btSubmit">提交</string>
+    <string name="text_btClear">清除</string>
+    <string name="text_btGotoSecond">去第二页</string>
+    <string name="text_btGotoThirdd">去第三页</string>
+    <string name="text_btGotoFourth">去第四页</string>
+    <string name="text_btGotoFifth">去第五页</string>
+    <string name="text_btGotoSixth">去第六页</string>
+    <string name="text_btGotoSeventh">去第七页</string>
+    <string name="text_btGotoEighth">去第八页</string>
+    <string name="text_btGotoNighth">去第九页</string>
+    <string name="text_btGotoTenth">去第十页</string>
+    <string name="text_btGotoLogin">去登陆页</string>
+    <string name="text_btAddTextView">添加TextView</string>
+    <string name="msg_ClearAllFields">清除所有字段</string>
+</resources>
+
+
